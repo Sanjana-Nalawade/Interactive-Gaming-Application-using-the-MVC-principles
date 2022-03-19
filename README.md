@@ -36,7 +36,7 @@
     <li><a href="#limitations">Limitations</a></li>
      <li><a href="#design-and-model-changes">Design and Model Changes</a></li>
     <li><a href="#citations">Citations</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#note">Note</a></li>
   </ol>
 </details>
 
@@ -216,6 +216,13 @@ The following assumptions have been made in order to successfully implement the 
 * New GUI based game is added along with teh Console Based Game.
 * No Changes To the Model were made.
 
+ScreenShots:
+
+![C:\Users\newuser\Pictures\Store\1.PNG](Screenshot1.png)![C:\Users\newuser\Pictures\Store\2.PNG](Screenshot2.png)
+
+![C:\Users\newuser\Pictures\Store\3.PNG](Screenshot3.png)!
+
+
 <!-- Citations -->
 
 ## Citations
@@ -229,3 +236,8 @@ The following assumptions have been made in order to successfully implement the 
 8. https://docs.oracle.com/javase/tutorial/uiswing/components/splitpane.html
 9. https://docs.oracle.com/javase/tutorial/uiswing/components/dialog.html
 10. https://www.geeksforgeeks.org/java-swing-jdialog-examples/
+11. 
+<!-- Note -->
+
+## Note
+I have not uploaded code for academic reasons; please contact me for more information on the project.
