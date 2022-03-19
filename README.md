@@ -5,14 +5,12 @@
     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/997770/header.jpg?t=1546540166" alt="Logo" width="500" height="200">
   </a>
 
-<h3 align="center"> <strong>Welcome to Dungeon Games!!!</strong> </h3>
+<h3 align="center">  <strong>Welcome to the World of Dungeons!!!</strong></h3>
 
 
 </div>
 
-  <p align="center">
-    <strong>Welcome to the World of Dungeons!!!</strong>
-</p>
+  
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -236,7 +234,7 @@ ScreenShots:
 8. https://docs.oracle.com/javase/tutorial/uiswing/components/splitpane.html
 9. https://docs.oracle.com/javase/tutorial/uiswing/components/dialog.html
 10. https://www.geeksforgeeks.org/java-swing-jdialog-examples/
-11. 
+
 <!-- Note -->
 
 ## Note
