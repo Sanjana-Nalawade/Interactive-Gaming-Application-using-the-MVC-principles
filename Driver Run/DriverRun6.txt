@@ -1,0 +1,986 @@
+D:\programfiles\java\jdk-11\bin\java.exe "-javaagent:D:\programfiles\IntelliJ\IntelliJ IDEA Community Edition 2021.2.1\lib\idea_rt.jar=64553:D:\programfiles\IntelliJ\IntelliJ IDEA Community Edition 2021.2.1\bin" -Dfile.encoding=UTF-8 -classpath "E:\northeastern\fall21\CS5010\Projects\Project_04_Text_Based_Adventure_Game - Copy\out\production\Project_04_Text_Based_Adventure_Game" Driver 5 5 4 false 40 5
+
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  3
+Current Location : Cave 9
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 4 
+EAST  Cave: 10 
+WEST  Cave: 8 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+2
+****Arrow Available in Cave*****
+Type Y to pick the Arrow or type anything else to continue without picking
+y
+ Treasure Not Available !!!
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  4
+Current Location : Cave 9
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 4 
+EAST  Cave: 10 
+WEST  Cave: 8 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+a
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  4
+Current Location : Cave 8
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+SOUTH  Cave: 13 
+EAST  Cave: 9 
+WEST  Cave: 7 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+2
+****Arrow Available in Cave*****
+Type Y to pick the Arrow or type anything else to continue without picking
+y
+ Available Treasure : {DIAMONDS=0, RUBY=200, SAPPHIRE=0}
+****Treasure Available in Cave*****
+Type Y to pick the Treasure or type anything else to continue without picking
+n
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  5
+Current Location : Cave 8
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+SOUTH  Cave: 13 
+EAST  Cave: 9 
+WEST  Cave: 7 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+3
+Number Caves to Shoot?
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+a
+You hear a great howl in the distance !!!
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  4
+Current Location : Cave 8
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+SOUTH  Cave: 13 
+EAST  Cave: 9 
+WEST  Cave: 7 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+3
+Number Caves to Shoot?
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+a
+You hear a great howl in the distance !!!
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  3
+Current Location : Cave 8
+You smell something less pungent nearby 
+___________________________________
+   Available Paths: 
+
+SOUTH  Cave: 13 
+EAST  Cave: 9 
+WEST  Cave: 7 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+a
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  3
+Current Location : Cave 7
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 2 
+SOUTH  Cave: 12 
+EAST  Cave: 8 
+WEST  Cave: 6 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+2
+ No Arrows Available !!!
+ Available Treasure : {DIAMONDS=200, RUBY=200, SAPPHIRE=300}
+****Treasure Available in Cave*****
+Type Y to pick the Treasure or type anything else to continue without picking
+n
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  3
+Current Location : Cave 7
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 2 
+SOUTH  Cave: 12 
+EAST  Cave: 8 
+WEST  Cave: 6 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+3
+Number Caves to Shoot?
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+s
+You hear a great howl in the distance !!!
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  2
+Current Location : Cave 7
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 2 
+SOUTH  Cave: 12 
+EAST  Cave: 8 
+WEST  Cave: 6 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+3
+Number Caves to Shoot?
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+s
+You hear a great howl in the distance !!!
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  1
+Current Location : Cave 7
+You smell something less pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 2 
+SOUTH  Cave: 12 
+EAST  Cave: 8 
+WEST  Cave: 6 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+s
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  1
+Current Location : Cave 12
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 7 
+EAST  Cave: 13 
+WEST  Cave: 11 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+d
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  1
+Current Location : Cave 13
+You smell something less pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 8 
+EAST  Cave: 14 
+WEST  Cave: 12 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+d
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  1
+Current Location : Cave 14
+ 
+___________________________________
+   Available Paths: 
+
+SOUTH  Cave: 19 
+EAST  Cave: 15 
+WEST  Cave: 13 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+2
+****Arrow Available in Cave*****
+Type Y to pick the Arrow or type anything else to continue without picking
+y
+ Treasure Not Available !!!
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  2
+Current Location : Cave 14
+ 
+___________________________________
+   Available Paths: 
+
+SOUTH  Cave: 19 
+EAST  Cave: 15 
+WEST  Cave: 13 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+d
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  2
+Current Location : Cave 15
+ 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 10 
+SOUTH  Cave: 20 
+WEST  Cave: 14 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+2
+****Arrow Available in Cave*****
+Type Y to pick the Arrow or type anything else to continue without picking
+y
+ Available Treasure : {DIAMONDS=100, RUBY=100, SAPPHIRE=0}
+****Treasure Available in Cave*****
+Type Y to pick the Treasure or type anything else to continue without picking
+n
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  3
+Current Location : Cave 15
+ 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 10 
+SOUTH  Cave: 20 
+WEST  Cave: 14 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+a
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  3
+Current Location : Cave 14
+ 
+___________________________________
+   Available Paths: 
+
+SOUTH  Cave: 19 
+EAST  Cave: 15 
+WEST  Cave: 13 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+a
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  3
+Current Location : Cave 13
+You smell something less pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 8 
+EAST  Cave: 14 
+WEST  Cave: 12 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1a
+Not a valid number: 1a
+
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  3
+Current Location : Cave 13
+You smell something less pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 8 
+EAST  Cave: 14 
+WEST  Cave: 12 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+a
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  3
+Current Location : Cave 12
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 7 
+EAST  Cave: 13 
+WEST  Cave: 11 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+3
+Number Caves to Shoot?
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+a
+You hear a great howl in the distance !!!
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  2
+Current Location : Cave 12
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 7 
+EAST  Cave: 13 
+WEST  Cave: 11 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+3
+Number Caves to Shoot?
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+a
+You hear a great howl in the distance !!!
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  1
+Current Location : Cave 12
+ 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 7 
+EAST  Cave: 13 
+WEST  Cave: 11 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+a
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  1
+Current Location : Cave 11
+ 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 6 
+SOUTH  Cave: 16 
+EAST  Cave: 12 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+2
+****Arrow Available in Cave*****
+Type Y to pick the Arrow or type anything else to continue without picking
+y
+ Treasure Not Available !!!
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  2
+Current Location : Cave 11
+ 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 6 
+SOUTH  Cave: 16 
+EAST  Cave: 12 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+s
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  2
+Current Location : Cave 16
+You smell something less pungent nearby 
+___________________________________
+   Available Paths: 
+
+NORTH  Cave: 11 
+SOUTH  Cave: 21 
+EAST  Cave: 17 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+d
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  2
+Current Location : Cave 17
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+SOUTH  Cave: 22 
+EAST  Cave: 18 
+WEST  Cave: 16 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+3
+Number Caves to Shoot?
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+s
+You hear a great howl in the distance !!!
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  1
+Current Location : Cave 17
+You smell something more pungent nearby 
+___________________________________
+   Available Paths: 
+
+SOUTH  Cave: 22 
+EAST  Cave: 18 
+WEST  Cave: 16 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+3
+Number Caves to Shoot?
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+s
+You hear a great howl in the distance !!!
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Arrows Count :  0
+Current Location : Cave 17
+ 
+___________________________________
+   Available Paths: 
+
+SOUTH  Cave: 22 
+EAST  Cave: 18 
+WEST  Cave: 16 
+  
+___________________________________
+___________________________________
+  Type Following Number: 
+
+1.Move
+2.Pickup
+3.Shoot
+4.Quit  
+___________________________________
+1
+___________________________________
+   Enter Following Character: 
+
+             W: North 
+                 ^ 
+ A: West       <   >       D: East  
+                 v 
+              S: South  
+___________________________________
+s
+___________________________________
+  !!!!!! CONGRATULATIONS Alice !!!!!!   
+___________________________________
+Alice Successfully Reached the End of the Dungeon
+Thank you for playing
+___________________________________
+
+   Player Alice Details 
+___________________________________
+Treasure :  {DIAMONDS=0, SAPPHIRE=0, RUBY=0}
+Current Location : Cave 22
+
+Process finished with exit code 0
